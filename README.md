@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/ahmvdshafiq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad shafiq" height="30" width="40" /></a>
 </p>
 <br>
-<br>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmvdshafiq&show_icons=true&locale=en&layout=compact" alt="ahmvdshafiq" /></p>

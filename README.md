@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ahmvdshafiq@gmail.com**
 
-- ⚡ Fun fact **Love Footbal and playing Golf**
+- ⚡ Fun fact **Love Football and playing Golf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

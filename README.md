@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmvdshafiq&label=Profile%20views&color=0e75b6&style=flat" alt="ahmvdshafiq" /> </p>
 
-- 🔭 I’m currently working on **Hitachi Rail**
+- 🔭 I’m currently working on **Lenovo**
 
 - 🌱 I’m currently learning **CICD Pipeline, Configuration Management, Infrastructure As A Code**
 
